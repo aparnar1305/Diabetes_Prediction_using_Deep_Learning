@@ -1,6 +1,6 @@
 # Diabetes Prediction using Deep Learning
 
-A simple diabetes prediction model built using TensorFlow/Keras with a 62 percent accurate prediction.
+A simple diabetes prediction model built using TensorFlow/Keras with a 62% accurate prediction.
 
 ## Dataset
 - Pima Indians Diabetes Dataset
